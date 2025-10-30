@@ -1,0 +1,84 @@
+COMPREHENSIVE ANALYSIS OF VERB 'DIRE'
+==================================================
+
+1. DISTRIBUTION BY MOOD
+------------------------------
+
+PART:
+  Past: 774
+  Pres: 6422
+  Unknown: 1
+
+IND:
+  Fut: 239
+  Imp: 13265
+  Past: 1
+  Pres: 43901
+  passe_compose: 32481
+
+IMP:
+  Pres: 1220
+
+INF:
+  Unknown: 37667
+
+SUB:
+  Past: 54
+  Pres: 138
+
+CND:
+  Past: 259
+
+UNKNOWN:
+  Pres: 19
+  Unknown: 26
+
+2. DISTRIBUTION BY TENSE (all moods)
+------------------------------
+Fut: 239
+Imp: 13265
+Past: 1088
+Pres: 51700
+Unknown: 37694
+passe_compose: 32481
+
+3. DISTRIBUTION BY PERSON_NUMBER
+------------------------------
+1_Plur: 1319
+1_Sing: 41324
+2_Plur: 9503
+2_Sing: 617
+3_Plur: 6383
+3_Sing: 32413
+None_None: 44036
+None_Plur: 113
+None_Sing: 759
+
+4. INTERIOR vs NON-INTERIOR DISCOURSE
+------------------------------
+interior: 18551
+non_interior: 117916
+
+5. SUBJECT 'ON' ANALYSIS (3rd person singular only)
+------------------------------
+has_on: 11607 (35.8%)
+no_on: 20806 (64.2%)
+
+6. DISCOURSE TYPE FOLLOWING 'DIRE'
+------------------------------
+de_infinitive: 1
+direct: 2852
+indirect: 10412
+non_defined: 123202
+
+8. INDIRECT OBJECT PERSON-NUMBER DISTRIBUTION
+---------------------------------------------
+1_Plur: 3605
+1_Sing: 32799
+2_Plur: 5468
+2_Sing: 375
+3_None: 6356
+3_Plur: 2960
+3_Sing: 7554
+None: 77280
+None_None: 70
